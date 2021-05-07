@@ -18,11 +18,29 @@
 ## 2. 系统需求分析
 ### 用户角色划分图
 
-![用户角色划分图](graph/用户角色划分图.svg)
+<!-- ![用户角色划分图](graph/用户角色划分图.svg) -->
+
+<div align=center>
+<img src="graph/用户角色划分图.svg" width="300" height="300">
+</div>
 
 ### 用户管理功能用例图
 
+<div align=center>
+<img src="graph/用户管理功能用例图.svg" width="300" height="300">
+</div>
+
+
 ### 抽奖管理用例图
 
+<div align=center>
+<img src="graph/抽奖管理用例图.svg" width="300" height="300">
+</div>
+
+
 ### 抽奖功能用例图
+
+<div align=center>
+<img src="graph/抽奖功能用例图.svg" width="300" height="300">
+</div>
 
